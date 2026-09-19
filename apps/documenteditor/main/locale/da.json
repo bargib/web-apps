@@ -79,7 +79,7 @@
   "Common.Controllers.ReviewChanges.textParaMoveFromDown": "<b>Flyttet ned:</b>",
   "Common.Controllers.ReviewChanges.textParaMoveFromUp": "<b>Flyttet op:</b>",
   "Common.Controllers.ReviewChanges.textParaMoveTo": "<b>Flyttet:</b>",
-  "Common.Controllers.ReviewChanges.textPosition": "Words skrifttypedialog, fanen Avanceret: gruppen Tegnafstand har felterne Afstand og Placering. Det er hævningen eller sænkningen i forhold til skriftlinjen. I gennemse-panelet sættes ordet foran et tal og en enhed — »Placering 1,25 cm«.",
+  "Common.Controllers.ReviewChanges.textPosition": "Placering",
   "Common.Controllers.ReviewChanges.textRight": "Tilpas til højre",
   "Common.Controllers.ReviewChanges.textShape": "Form",
   "Common.Controllers.ReviewChanges.textShd": "Baggrundsfarve",
